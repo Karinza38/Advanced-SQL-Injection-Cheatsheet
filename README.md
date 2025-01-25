@@ -1,4 +1,4 @@
-# Advanced SQL Injection Cheatsheet
+ # Advanced SQL Injection Cheatsheet
 This repository contains a advanced methodology of all types of SQL Injection.
 
 ## General Process:
